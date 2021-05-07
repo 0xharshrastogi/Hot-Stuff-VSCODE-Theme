@@ -1,16 +1,21 @@
 {
   "name": "harsh",
-  "displayName": "Hot Stuff",
+  "displayName": "Hot-Stuff",
   "description": "Hot Stuff is developed keeping ui-color simple, all color is chosen by keeping what is essential adapted tokenColor from Pop 'n' Lock scheme. This theme is prefered for JS/TS Developer .. But Anyone Can Still Use It",
   "version": "0.0.1",
-  "publisher": "theharshrastogi",
+  "publisher": "HarshRastogi",
   "engines": {
     "vscode": "^1.55.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theharshrastogi/Hot-Stuff-VSCODE-Theme"
   },
   "keywords": [
     "dark",
     "material",
     "Hot Stuff",
+    "Hot Stuff Theme",
     "HotStuff",
     "Typescript",
     "Javascript",
