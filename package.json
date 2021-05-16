@@ -2,7 +2,7 @@
   "name": "harsh",
   "displayName": "Hot-Stuff",
   "description": "Hot Stuff is developed keeping ui-color simple, all color is chosen by keeping what is essential adapted tokenColor from Pop 'n' Lock scheme. This theme is prefered for JS/TS Developer .. But Anyone Can Still Use It",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "publisher": "HarshRastogi",
   "engines": {
     "vscode": "^1.55.0"
